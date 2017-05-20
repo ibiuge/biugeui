@@ -1,0 +1,25 @@
+{
+  "name": "biugeui",
+  "version": "0.0.1",
+  "description": "Biuge UI components built with React.",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ibiuge/biugeui.git"
+  },
+  "keywords": [
+    "react",
+    "biugeui",
+    "react-ui",
+    "biuge-ui-react"
+  ],
+  "author": "LMY",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ibiuge/biugeui/issues"
+  },
+  "homepage": "https://github.com/ibiuge/biugeui#readme"
+}
